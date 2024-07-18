@@ -1,0 +1,24 @@
+.footer{
+    display: flex;
+    justify-content: space-around
+}
+.icone{
+    display: flex;
+    justify-content: space-around;
+}
+.email{
+    display: flex;
+    justify-content: center;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+header nav{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    list-style-type: none;
+    padding: 0px 0px 30px;
+}
